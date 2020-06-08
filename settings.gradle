@@ -1,0 +1,3 @@
+rootProject.name='TaskStarter'
+include ':app'
+include ':lib'
