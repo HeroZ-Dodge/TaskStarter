@@ -2,22 +2,22 @@
   {
     "fileName":"boom.svga",
     "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/boom.svga",
-    "priority":1
+    "priority":2
   },
   {
     "fileName":"call_bell.svga",
     "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/call_bell.svga",
-    "priority":1
+    "priority":2
   },
   {
     "fileName":"call_bell_click.svga",
     "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/call_bell_click.svga",
-    "priority":1
+    "priority":2
   },
   {
     "fileName":"call_bell_sway.svga",
     "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/call_bell_sway.svga",
-    "priority":1
+    "priority":2
   },
   {
     "fileName":"opinion_pk_agent_n.svga",
@@ -57,11 +57,11 @@
   {
     "fileName":"video_doubletap_like.svga",
     "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/video_doubletap_like.svga",
-    "priority":1
+    "priority":3
   },
   {
     "fileName":"video_like.svga",
     "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/video_like.svga",
-    "priority":1
+    "priority":3
   }
 ]
