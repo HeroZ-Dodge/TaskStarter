@@ -1,13 +1,66 @@
 [
   {
+    "fileName":"boom.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/boom.svga",
+    "priority":1
+  },
+  {
+    "fileName":"call_bell.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/call_bell.svga",
+    "priority":1
+  },
+  {
+    "fileName":"call_bell_click.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/call_bell_click.svga",
+    "priority":1
+  },
+  {
+    "fileName":"call_bell_sway.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/call_bell_sway.svga",
+    "priority":1
+  },
+  {
+    "fileName":"opinion_pk_agent_n.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/opinion_pk_agent_n.svga",
+    "priority":1
+  },
+
+  {
+    "fileName":"opinion_pk_agent_p.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/opinion_pk_agent_p.svga",
+    "priority":1
+  },
+
+  {
+    "fileName":"opinion_pk_bg.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/opinion_pk_bg.svga",
+    "priority":1
+  },
+
+  {
+    "fileName":"opinion_pk_negative_send.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/opinion_pk_negative_send.svga",
+    "priority":1
+  },
+
+  {
+    "fileName":"opinion_pk_positive_send.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/opinion_pk_positive_send.svga",
+    "priority":1
+  },
+
+  {
+    "fileName":"photo_movie_recording.svga",
+    "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/photo_movie_recording.svga",
+    "priority":1
+  },
+  {
     "fileName":"video_doubletap_like.svga",
-    "md5":"sfsfaf45353523452353225",
     "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/video_doubletap_like.svga",
     "priority":1
   },
   {
     "fileName":"video_like.svga",
-    "md5":"123",
     "url":"https://raw.githubusercontent.com/HeroZ-Dodge/TaskStarter/master/app/src/main/assets/video_like.svga",
     "priority":1
   }
